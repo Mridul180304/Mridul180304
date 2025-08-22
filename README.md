@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Hello 👋🏻, I'm Mridul Krishan Chawla<br>🎓 Final year B-Tech CSE student specializing in AI & ML<br>📊 Data science enthusiast passionate about uncovering insights and building predictive models<br>💡 Transforming raw data into actionable solutions for real-world problems<br>🚀 Always seeking new challenges to apply my skills to impactful projects
+🎓 Final year B-Tech CSE student specializing in AI & ML<br>📊 Data science enthusiast passionate about uncovering insights and building predictive models<br>💡 Transforming raw data into actionable solutions for real-world problems<br>🚀 Always seeking new challenges to apply my skills to impactful projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mridul-chawla-8234b9250/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mridulchawla20@gmail.com) 
