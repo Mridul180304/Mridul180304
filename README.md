@@ -57,8 +57,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mridul180304&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-## ⚡ Fun Fact
-When I'm not coding, you can find me exploring new data visualization techniques or contributing to open-source projects!
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mridul180304&icon=9&color=6)](https://visitcount.itsvg.in)
