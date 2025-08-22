@@ -32,13 +32,13 @@ Hello 👋🏻, I'm Mridul Krishan Chawla<br>🎓 Final year B-Tech CSE student 
 
 <p align="center">
   <a href="https://github.com/Mridul180304/StillPoint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mridul180304&repo=StillPoint&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mridul180304&repo=StillPoint&theme=radical" alt="StillPoint - A mental wellness journaling platform with mood tracking and analytics" />
   </a>
   <a href="https://github.com/Mridul180304/MediSinCare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mridul180304&repo=MediSinCare&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mridul180304&repo=MediSinCare&theme=radical" alt="MediSinCare - Healthcare management system for patient records and appointments" />
   </a>
   <a href="https://github.com/Mridul180304/Walmart-Sales-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mridul180304&repo=Walmart-Sales-Analysis&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mridul180304&repo=Walmart-Sales-Analysis&theme=radical" alt="Walmart Sales Analysis - Comprehensive sales forecasting with ML and interactive dashboard" />
   </a>
 </p>
 
