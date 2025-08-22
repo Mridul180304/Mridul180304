@@ -1,4 +1,5 @@
-<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/3c3fa020-c939-4840-8ee3-c9406740ceb5" />
+<img width="1700" height="460" alt="image" src="https://github.com/user-attachments/assets/48ec4429-aa5f-4543-a997-8be5e123e832" />
+
 
 # 💫 About Me:
 Hello 👋🏻, I'm Mridul Krishan Chawla<br>🎓 Final year B-Tech CSE student specializing in AI & ML<br>📊 Data science enthusiast passionate about uncovering insights and building predictive models<br>💡 Transforming raw data into actionable solutions for real-world problems<br>🚀 Always seeking new challenges to apply my skills to impactful projects
