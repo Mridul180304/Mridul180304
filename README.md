@@ -41,8 +41,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mridul180304&repo=MediSinCare&theme=radical" />
   </a>
   <a href="https://github.com/Mridul180304/Walmart-Sales-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mridul180304&repo=Walmart-Sales-Analysis&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mridul180304&repo=Walmart-Sales-Analysis&theme=radical&cache_bust=1" />
+</a>
 </p>
 
 # 📊 GitHub Stats:
